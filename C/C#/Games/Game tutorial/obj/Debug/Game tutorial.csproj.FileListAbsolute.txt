@@ -1,0 +1,10 @@
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\bin\Debug\Game tutorial.exe.config
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\bin\Debug\Game tutorial.exe
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\bin\Debug\Game tutorial.pdb
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game tutorial.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game_tutorial.Form1.resources
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game_tutorial.Properties.Resources.resources
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game tutorial.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game tutorial.exe
+C:\Users\Max\Desktop\Programování\C\C#\Games\Game tutorial\obj\Debug\Game tutorial.pdb

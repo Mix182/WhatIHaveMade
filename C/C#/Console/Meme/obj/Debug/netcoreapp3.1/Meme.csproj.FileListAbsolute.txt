@@ -1,0 +1,14 @@
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\bin\Debug\netcoreapp3.1\Meme.exe
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\bin\Debug\netcoreapp3.1\Meme.deps.json
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\bin\Debug\netcoreapp3.1\Meme.runtimeconfig.json
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\bin\Debug\netcoreapp3.1\Meme.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\bin\Debug\netcoreapp3.1\Meme.dll
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\bin\Debug\netcoreapp3.1\Meme.pdb
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.AssemblyInfo.cs
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.dll
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.pdb
+C:\Users\Max\Desktop\Programování\C\C#\Console\Meme\obj\Debug\netcoreapp3.1\Meme.genruntimeconfig.cache
