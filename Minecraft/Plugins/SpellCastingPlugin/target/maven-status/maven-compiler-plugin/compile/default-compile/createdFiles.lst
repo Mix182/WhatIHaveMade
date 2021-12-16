@@ -1,0 +1,7 @@
+me\mix\customspellsplugin\events\OtherEvents.class
+me\mix\customspellsplugin\UseItems.class
+me\mix\customspellsplugin\commands\GivePlayerSpellsItemCommand.class
+me\mix\customspellsplugin\events\onClcikEvent.class
+me\mix\customspellsplugin\GenerateItems.class
+me\mix\customspellsplugin\CustomSpellsPlugin.class
+me\mix\customspellsplugin\events\GuiInteracteble.class

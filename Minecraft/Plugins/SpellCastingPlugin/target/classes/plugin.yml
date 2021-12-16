@@ -1,0 +1,10 @@
+name: CustomSpellsPlugin
+version: '1.0'
+main: me.mix.customspellsplugin.CustomSpellsPlugin
+api-version: 1.17
+authors: [ Mix182 ]
+description: Enables you to use custom spells
+commands:
+  givemagicalitem:
+    description: Gives specified player an magical item
+    usage: /<command> [playerName]

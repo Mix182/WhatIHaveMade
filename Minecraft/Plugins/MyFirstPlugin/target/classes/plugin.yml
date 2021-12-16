@@ -1,0 +1,10 @@
+name: MyFirstPlugin
+version: '1.0-SNAPSHOT'
+main: me.mix.myfirstplugin.MyFirstPlugin
+api-version: 1.17
+authors: [ Mix182 ]
+description: I am learning
+commands:
+  gui:
+    description: Opens graphical user iterface
+    usage: /<command>
